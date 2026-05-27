@@ -11,3 +11,8 @@ This repository provides a collection of tools developed by or used within the J
 
 Some tools are maintained externally and are referenced here for discoverability.  
 Where tools are maintained internally, they will be included directly in this repository.
+
+## Contributing and feedback
+
+Feedback, suggestions and contributions are welcome.  
+Open an issue, submit a PR, or contact [eResearch](mailto:eresearch@jcu.edu.au).
