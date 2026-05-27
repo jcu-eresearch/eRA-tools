@@ -3,10 +3,9 @@ This repository provides a collection of tools developed by or used within the J
 
 ## Available Tools
 
-### Data Transfer
-
-- [QRIScloud Rsync Manager](https://github.com/lucas-langlois/qris-rsync-manager)  
-    Developed by Lucas Langlois [ORCID](https://orcid.org/0009-0006-4776-8588)
+| Task | Repo | Developer |
+|-----------|----------|-------|
+| Data Transfer | [QRIScloud Rsync Manager](https://github.com/lucas-langlois/qris-rsync-manager)  | Lucas Langlois [ORCID](https://orcid.org/0009-0006-4776-8588) |
   
 ## About
 
